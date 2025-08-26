@@ -1,0 +1,4 @@
+"- ""Inventory","subClassOf","NodeWithAttributes"""
+"- ""Inventory","hasCollection","Collection"""
+"- ""Inventory","hasMaterial","Material"""
+"- Materials like polyethylene","silica nanoparticles","and various surface treatments"

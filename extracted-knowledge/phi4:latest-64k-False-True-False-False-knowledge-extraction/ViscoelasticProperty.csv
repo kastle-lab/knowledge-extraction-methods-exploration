@@ -1,0 +1,4 @@
+"1. `TensileCreepModulus","subClassOf","ViscoelasticProperty`"
+"2. `TensileCreepStrain","subClassOf","ViscoelasticProperty`"
+"3. `TensileCreepCompliance","subClassOf","ViscoelasticProperty`"
+"4. `ViscoelasticProperty","subClassOf","PhysicalProperty`"

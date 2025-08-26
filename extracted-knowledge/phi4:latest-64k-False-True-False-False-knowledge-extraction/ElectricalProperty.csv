@@ -1,0 +1,7 @@
+"RealPermitivity","subClassOf","ElectricalProperty"
+"LossTangent","subClassOf","ACDielectricDispersion"
+"LossPermitivity","subClassOf","ElectricalProperty"
+"BreakdownStrength","subClassOf","ElectricalProperty"
+"DielectricBreakdownStrength","subClassOf","ElectricalProperty"
+"VoltageEndurance","subClassOf","ElectricalProperty"
+"AbsorptionCurrent","subClassOf","ElectricalProperty"

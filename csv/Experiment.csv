@@ -1,0 +1,11 @@
+subject,predicate,object
+Experiment,subClassOf,NodeWithAttributes
+Funding,asString,xsd:string
+Experiment,hasData,Data
+Experiment,hasCollection,Collection
+Experiment,hasProcess,Process
+Experiment,hasFunding,Funding
+Experiment,hasLocation,Location
+Experiment,hasEnvironment,Environment
+Experiment,hasCitation,Citation
+Experiment,hasComputation,Computation

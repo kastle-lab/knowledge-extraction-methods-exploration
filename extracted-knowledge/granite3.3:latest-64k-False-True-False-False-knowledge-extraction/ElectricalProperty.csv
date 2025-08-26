@@ -1,0 +1,9 @@
+"Polyethylene","subClassOf","Material
+Silica Nanoparticles,subClassOf,Filler
+XLPE,subClassOf,Polymer
+Untreated Silica Nanoparticles,subClassOf,Surface Treatment
+AEAPS Treated Silica Nanoparticles,subClassOf,Surface Treatment
+HMDS Treated Silica Nanoparticles,subClassOf,Surface Treatment
+TES Treated Silica Nanoparticles,subClassOf,Surface Treatment
+Micron Scale Silica Particles,subClassOf,Filler
+5 wt%,subClassOf,Loading"

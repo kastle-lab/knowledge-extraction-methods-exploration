@@ -1,0 +1,3 @@
+"- ComputationalProcess","hasNotes","Notes"
+"- ComputationalProcess","hasInputData, hasOutputData","Data"
+"- Notes","asString","xsd:string"

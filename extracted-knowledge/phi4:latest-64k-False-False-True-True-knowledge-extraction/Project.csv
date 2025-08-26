@@ -1,0 +1,7 @@
+"1. **Project","hasMaterial","Material**: This pattern involves linking a project to specific materials used within it."
+"3. **Project","hasCollection","Collection**: This involves identifying collections or sets of tests linked with a project."
+"Project1","hasMaterial","Silica Nanoparticles"
+"Project1","hasMaterial","Polyethylene"
+"Project2","hasCollection","Dielectric Spectroscopy"
+"Project2","hasCollection","Absorption Current Measurements"
+"Project2","hasCollection","Thermally Stimulated Current Determinations (TSC)"

@@ -1,0 +1,5 @@
+"EssentialWorkOfFracture","hasFractureCharacteristic","FractureCharacteristic"
+"EssentialWorkOfFracture","subClassOf","Fracture"
+"PlasticElastic","hasFractureCharacteristic","FractureCharacteristic"
+"PlasticElastic","subClassOf","Fracture"
+"Fracture","hasFractureCharacteristic","FractureCharacteristic"

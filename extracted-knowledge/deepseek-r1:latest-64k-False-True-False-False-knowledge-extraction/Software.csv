@@ -1,0 +1,7 @@
+"Then","""Software hasName xsd:string"" refers to naming software instances used in the study. Instruments like Perkin Elmer (Model #5500) and Bruker ER 042 are named here. Even though some parts might have different names or abbreviations","these specific mentions make them valid."
+"Finally","""Software subclassOf Node"" relates to classification but is less directly supported by the text's content. The article doesn't delve into ontological classifications of software nodes beyond generic references in discussion sections","so this triple isn't explicitly inferable from the data presented."
+"Perkin Elmer Model #5500","hasName","xsd:string"
+"Bruker ER 042","hasName","xsd:string"
+"AEAPS treated nanosilica","hasSource","xEPS (X-ray Photoelectron Spectroscopy)"
+"HMDS treated nanosilica","hasSource","XPS"
+"TES treated nanosilica","hasSource","XPS"

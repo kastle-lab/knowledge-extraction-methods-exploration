@@ -1,0 +1,8 @@
+"However","I need to output only the exact extracts that match the triples. In this case","what is the specific subject Process here? For instance:"
+"""Incorporation","hasIngredient","SiO2 nanoparticles"" – though not explicit in a sentence."
+"E.g.","from abstract: ""Nelson J","Fothergill JC (2004) Nanotechnology 15:586"""
+"I need to extract triples where subject","predicate","and object are all from the publication text."
+"Final thought: The triples should only include what the publication explicitly states","so perhaps not much content fits directly. But according to guidelines","we must extract all factual data that match patterns and are clearly inferable."
+"Triple extraction could yield: (Formulation process","hasIngredient","SiO2 nanoparticles) but not explicit."
+"E.g.","""In this context the data of Nelson and colleagues (Nelson J","Fothergill JC 2004) should be used as guidance."""
+"Markdown list with subjects","predicates","objects from publication text."

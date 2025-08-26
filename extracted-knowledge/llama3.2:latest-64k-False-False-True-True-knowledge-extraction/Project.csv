@@ -1,0 +1,7 @@
+"Project","hasMaterial","Material"
+"Polyethylene","hasMaterial","Polyethylene"
+"SiO2_Powder_A","hasMaterial","SiO2_Powder_A"
+"Project","subClassOf","NodeWithAttributes"
+"NodeWithAttributes","subClassOf","NodeWithAttributes"
+"Project","hasCollection","Collection"
+"NanocompositeStudy2023","hasCollection","NanocompositeStudy2023"

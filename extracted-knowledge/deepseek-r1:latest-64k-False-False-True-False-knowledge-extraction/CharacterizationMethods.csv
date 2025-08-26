@@ -1,0 +1,2 @@
+"DifferentialScanningCalorimetry","subClassOf","ThermochemicalMethod"
+"CoolingRate","subClassOf","CycleInformation"

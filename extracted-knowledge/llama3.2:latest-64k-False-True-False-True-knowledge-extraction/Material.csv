@@ -1,0 +1,6 @@
+"Material","hasComputationForcefield","ComputationForcefield"
+"RheoTest22","hasRheometryCharacteristic","CapillarySize: 0.5 mm"
+"Material","hasProject","Project"
+"NanocompositeStudy2023","hasDOI","https://doi.org/10.1016/j.polymer.2023.125"
+"Reference","hasAuthor","Author"
+"Ref1234","hasAuthor","Jane Smith"

@@ -1,0 +1,6 @@
+"Differential Scanning Calorimetry (DSC) is explicitly mentioned in several sections","including measuring cooling rates and crystallinity. So","connecting DSC to its calorimetry characteristic **CoolingRate** fits the publication's content."
+"Other microscopy types like TEM might not be covered here","but if any were","they'd need direct references from SEM discussions."
+"DifferentialScanningCalorimetry","hasCalorimetryCharacteristic","CoolingRate"
+"FourierTransformInfraredSpectroscopy","subClassOf","Spectroscopy"
+"FourierTransformInfraredSpectroscopy","subClassOf","CharacterizationMethod"
+"TransmissionElectronMicroscopy","subClassOf","Microscopy"

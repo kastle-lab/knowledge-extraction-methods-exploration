@@ -1,0 +1,5 @@
+"Looking at the schema provided","I see it's empty (just contains csv header markers). Since no specific schema patterns are defined","I cannot extract any triples from the publication."
+"subject_type","predicate","object_type"
+"- material","has_breakdown_strength","value"
+"- composite","contains_filler","material"
+"- measurement","performed_at_temperature","value"

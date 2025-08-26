@@ -1,0 +1,8 @@
+"- `FiberTensileStrength","subClassOf","MechanicalProperty`"
+"- `PoissonRatio","subClassOf","Tensile`"
+"FiberTensileStrength","subClassOf","MechanicalProperty"
+"TensileModulus","subClassOf","MechanicalProperty"
+"CompressionStressAtBreak","subClassOf","MechanicalProperty"
+"PoissonRatio","subClassOf","Tensile"
+"FiberTensileElongation","subClassOf","MechanicalProperty"
+"TensileStressAtBreak","subClassOf","Tensile"

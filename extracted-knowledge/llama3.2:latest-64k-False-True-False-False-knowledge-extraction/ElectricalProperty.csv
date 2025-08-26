@@ -1,0 +1,8 @@
+"nanoparticles","subClassOf","ACDielectricDispersion"
+"polyethylene","subClassOf","ElectricalProperty"
+"nanoscale silica[subClassOf]","subClassOf","ElectricalProperty"
+"Description[subClassOf]","subClassOf","ACDielectricDispersion"
+"RealPermitivity[subClassOf]","subClassOf","ElectricalProperty"
+"silica nanoparticles[subClassOf]","subClassOf","ElectricalProperty"
+"polyethylene","subClassOf","ElectricalProperty"
+"nanofillers","subClassOf","ElectricalProperty"

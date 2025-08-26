@@ -1,0 +1,6 @@
+"CompressiveCreepRuptureStrength","subclassOf","ViscoelasticProperty"
+"FlexuralCreepRuptureStrain","subclassOf","ViscoelasticProperty"
+"TensileCreepModulus","subclassOf","ViscoelasticProperty"
+"TensileCreepCompliance","subclassOf","ViscoelasticProperty"
+"FlexuralCreepRuptureTime","subclassOf","ViscoelasticProperty"
+"CompressiveCreepRuptureTime","subclassOf","ViscoelasticProperty"

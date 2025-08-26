@@ -1,0 +1,4 @@
+"Reference","hasPublicationYear","xsd:gYear"
+"ArticleNumber","","# Assuming an article number is provided within the citation."
+"Reference","hasJournal","Springer Science+Business Media LLC"
+"Author:hasAffiliation","xsd:anyURI Materials Science and Engineering Department",""

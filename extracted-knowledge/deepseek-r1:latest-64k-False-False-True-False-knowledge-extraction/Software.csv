@@ -1,0 +1,7 @@
+"1. **Software","hasVersion","xsd:string**"
+"2. **Source","asString","xsd:string**"
+"3. **Software","hasName","xsd:string**"
+"4. **Software","hasSource","Source**"
+"- This means a software has a source (which is another entity of type Source). The publication mentions sources such as IEEE or specific journals (like references [1]","[2])","but these are not explicitly part of the schema in this context and do not seem to be linked directly to any software."
+"5. **Software","subClassOf","Node**"
+"- Instead","it talks about physical instruments (like EPR spectrometer) and materials science techniques","which might be considered as ""software"" under a broader interpretation but without explicit statements."

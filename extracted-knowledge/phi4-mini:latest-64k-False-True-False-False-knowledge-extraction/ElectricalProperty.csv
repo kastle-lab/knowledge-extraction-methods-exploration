@@ -1,0 +1,3 @@
+"ElectricalProperty","subClassOf","PhysicalProperty"
+"ACDielectricDispersion","subClassOf","ElectricalProperty"
+"Conductivity","subClassOf","ElectricalProperty"

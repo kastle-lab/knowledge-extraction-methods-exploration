@@ -1,0 +1,3 @@
+"- Inventory","subClassOf","NodeWithAttributes"
+"- Inventory","hasCollection","Collection"
+"- Inventory","hasMaterial","Material"

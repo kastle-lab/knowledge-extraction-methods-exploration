@@ -1,0 +1,5 @@
+"Interesting that you've provided both schema examples (subject","predicate","object) and actual publication content with placeholders. Your focus appears to be on verifying how well I can:"
+"Collection","hasCitation","Citation"
+"Collection","hasReference","Reference"
+"Citation","subClassOf","Reference"
+"Citation","hasType","CitationTypes"

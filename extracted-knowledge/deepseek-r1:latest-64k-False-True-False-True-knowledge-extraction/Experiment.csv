@@ -1,0 +1,5 @@
+"The user seems concerned about accuracy in extracting specific relationships from scientific publications - possibly for database curation","literature review automation","or academic research validation purposes. They need a consistent method that doesn't require creative interpretation but focuses on verifiable facts and direct quotes from the text."
+"Experiment","hasData","SSA_SiO2_A"
+"FiberTensileStrength","isMeasuredUnderCondition","Temperature: 25 °C"
+"NanocompositeStudy2023","hasDOI","https://doi.org/10.1016/j.polymer.2023.125"
+"SiO2_Powder_A","hasProperty","Density"

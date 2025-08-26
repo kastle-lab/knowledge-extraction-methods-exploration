@@ -1,0 +1,8 @@
+"4. Output must strictly follow ""subject","predicate","object"" CSV format."
+"- It defines general patterns like (Data","hasSamplePreparation","PhysicalProcess) etc."
+"Second paragraph talks about various methods performed (XPS","EPR","dielectric spectroscopy) which would be computations/analysis. So ""hasComputation"" fits well."
+"Citation is explicitly mentioned with DOI","publisher info etc.","so that's straightforward to extract."
+"Data","hasSamplePreparation","PhysicalProcess"
+"Data","hasComputation","Computation"
+"Data","hasType","Type"
+"Data","hasCitation","Citation"

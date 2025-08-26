@@ -1,0 +1,6 @@
+"DifferentialScanningCalorimetry","subClassOf","CharacterizationMethod"
+"DielectricAndImpedanceSpectroscopyAnalysis","subClassOf","Spectroscopy"
+"FourierTransformInfraredSpectroscopy","subClassOf","Spectroscopy"
+"ScanningElectronMicroscopy","subClassOf","Microscopy"
+"ScanningElectronMicroscopy","hasMicrscopyCharacteristic","Magnification"
+"XrayPhotoneelectronSpectroscopy","subClassOf","CharacterizationMethod"

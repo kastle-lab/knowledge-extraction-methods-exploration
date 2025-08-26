@@ -1,0 +1,22 @@
+"1. ""SilicaNanoparticles","ElectricalProperty","DielectricBreakdownStrength: 12 GPa"""
+"2. ""SilicaNanoparticles","ElectricalProperty","Conductivity: 10^(-6) S/m"""
+"3. ""Polyethylene","ElectricalProperty","RealPermitivity: 5.4 ε0"""
+"4. ""Polyethylene","ElectricalProperty","DielectricConstant: 2.1"""
+"5. ""Polyethylene","ElectricalProperty","LossTangent: 0.0045"""
+"6. ""Polyethylene","ElectricalProperty","Permittivity: 3.0 ε0"""
+"7. ""SilicaNanoparticles","ElectricalProperty","ArcResistance: 10^(-3) Ωm"""
+"8. ""Polyethylene","ElectricalProperty","VolumeResistivity: 10^6 Ω·cm"""
+"9. ""Polyethylene","ElectricalProperty","SurfaceResistivity: 100 Ω·cm"""
+"10. ""SilicaNanoparticles","ElectricalProperty","CurrentDensity: 1 A/cm²"""
+"11. ""Polyethylene","ElectricalProperty","LossPermitivity: 6 ε0"""
+"12. ""Polyethylene","ElectricalProperty","ArcResistance: 10^(-3) Ωm"""
+"SilicaNanoparticles","predicate:ElectricalProperty","Object:DielectricBreakdownStrength: 12 GPa
+Polyethylene,predicate:ElectricalProperty,Object:RealPermitivity: 5.4 ε0
+Polyethylene,predicate:ElectricalProperty,Object:DielectricConstant: 2.1
+Polyethylene,predicate:ElectricalProperty/Object:LossTangent: 0.0045
+Polyethylene,predicate:ElectricalProperty/Object:Permittivity: 3.0 ε0
+SilicaNanoparticles,predicate:ElectricalProperty/Object:ArcResistance: 10^(-3) Ωm
+Polyethylene,predicate:ElectricalProperty/Object:VolumeResistivity: 10^6 Ω·cm
+Polyethylene,predicate:ElectricalProperty/Object:SurfaceResistivity: 100 Ω·cm
+SilicaNanoparticles,predicate:ElectricalProperty/Object:CurrentDensity: 1 A/cm²
+Polyethylene,predicate:ElectricalProperty/Object:LossPermitivity: 6 ε0"

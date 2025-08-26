@@ -1,0 +1,3 @@
+"- DielectricSpectroscopy","hasExperiment","CharacterizationMethod"
+"This triple matches the schema pattern `(Computation","hasExperiment","Experiment)` by interpreting ""Dielectric Spectroscopy"" as a type of experimental computation related to characterization methods."
+"DielectricSpectroscopy","hasExperiment","CharacterizationMethod"

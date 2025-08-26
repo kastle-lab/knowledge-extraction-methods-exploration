@@ -1,0 +1,8 @@
+"Polyethylene","hasProperty","BreakdownStrength"
+"NanoscaleSilica","hasProperty","InterfacialArea"
+"Polyethylene","hasComponent","Antioxidants"
+"Polyethylene","hasComponent","DicumylPeroxide"
+"XLPE","hasComponent","UntreatedNanosilica"
+"XLPE","hasComponent","AEAPSTreatedNanosilica"
+"XLPE","hasComponent","HMDSTreatedNanosilica"
+"XLPE","hasComponent","TESTreatedNanosilica"

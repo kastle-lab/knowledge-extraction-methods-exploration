@@ -1,0 +1,6 @@
+"Collection","hasCitation","Citation"
+"- The nanosilica was either used untreated or commercially surface-modified with triethoxyvinylsilane (TES)","n-(2-aminoethyl) 3-aminopropyltrimethoxysilane (AEAPS)","or hexamethyldisilazane (HMDS)."
+"Collection","hasReference","Reference"
+"Citation","subClassOf","Reference"
+"Citation","hasType","CitationTypes"
+"Collection","hasCitation","Citation"

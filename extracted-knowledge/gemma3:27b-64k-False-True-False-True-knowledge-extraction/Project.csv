@@ -1,0 +1,3 @@
+"Project","hasMaterial","Material -> ProjectA,hasMaterial,MaterialX"
+"Project","hasMaterial","Material -> ProjectB,hasMaterial,MaterialY"
+"Project","hasMaterial","Material -> ProjectC,hasMaterial,MaterialZ"

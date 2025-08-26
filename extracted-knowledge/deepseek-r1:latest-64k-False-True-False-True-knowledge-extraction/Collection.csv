@@ -1,0 +1,8 @@
+"1. `Collection","subClassOf","NodeWithAttributes`: This requires finding evidence that silica/XLPE composites are considered nodes with attributes."
+"3. `Collection","hasProject","Project`: Mentions collaborations like EPRI and references to other groups' work."
+"4. `Collection","hasDOI","xsd:anyURI`: Directly provides the DOI in the publication metadata."
+"Collection","subClassOf","Nanocomposite"
+"Collection","hasExperiment","DielectricSpectroscopy"
+"Collection","hasExperiment","ThermallyStimulatedCurrent"
+"Collection","hasProject","MaterialsScienceandEngineeringDepartment"
+"Collection","hasDOI","https://doi.org/10.1007/s10853-006-0413-0"

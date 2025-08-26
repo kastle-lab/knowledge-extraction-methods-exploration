@@ -1,0 +1,5 @@
+"Next","we'll read through the publication text and identify relevant keywords related to each subject in our parsed triples. For this example","we can use a simple string search approach:"
+"for subject","predicate","object_ in triples:"
+"relevant_triples.append((subject","predicate","object_))"
+"fieldnames = [""subject""","""predicate""","""object""]"
+"writer.writerow({""subject"": triple[0]","""predicate"": triple[1]","""object"": triple[2]})"

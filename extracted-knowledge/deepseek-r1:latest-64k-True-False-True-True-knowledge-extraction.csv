@@ -1,0 +1,5 @@
+"Experiment","subClassOf","NodeWithAttributes"
+"Funding","asString","xsd:string: commercial material used in manufacturing high-voltage underground cables"
+"CharacterizationMethod",":dcBreakdownStrength","true"
+"ElectricalProperty",":WeibullPlot","true"
+"ElectricalProperty",":Conductivity","true"

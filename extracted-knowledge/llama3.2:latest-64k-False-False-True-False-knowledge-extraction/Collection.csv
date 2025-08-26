@@ -1,0 +1,7 @@
+"Collection","subClassOf","NodeWithAttributes"
+"Collection","hasExperiment","Experiment"
+"Collection","hasProject","Project"
+"Collection","hasDOI","xsd:anyURI"
+"Collection","hasCitation","Citation"
+"Collection","hasInventory","Inventory"
+"These data triples are extracted from the publication and only include information that is explicitly stated or clearly inferable. They adhere to the schema exactly and do not include unsupported","hypothetical","or guessed information."

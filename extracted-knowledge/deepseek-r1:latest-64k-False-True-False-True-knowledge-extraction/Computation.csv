@@ -1,0 +1,5 @@
+"Computation","hasExperiment","Experiment"
+"Condition","isMeasuredUnder","polymer properties analysis"
+"DielectricBreakdownStrength","isMeasuredBy","ePR spectroscopy"
+"VoltageEnduranceTest","isConductedAt","four different temperatures"
+"XLPE","hasBreakdownStrength","270 kV/mm"

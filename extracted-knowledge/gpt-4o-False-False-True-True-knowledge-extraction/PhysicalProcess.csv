@@ -1,0 +1,6 @@
+"PhysicalProcess","subClassOf","Process"
+"PhysicalProcess","hasEquipment","scanning electron microscopy"
+"Keyword","asString","DC breakdown strength"
+"Keyword","asString","Weibull distribution"
+"Keyword","asString","nanodielectrics"
+"Keyword","asString","nanocomposites"

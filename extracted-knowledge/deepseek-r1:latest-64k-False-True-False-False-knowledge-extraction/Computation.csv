@@ -1,0 +1,8 @@
+"2. **Computation hasPrerequisiteComputation** and **hasExperiment**: These appear in the introduction as part of hypothesis generation. Since computations are mentioned","but not broken down into specific prerequisite steps","it's unclear if these can be extracted directly from the publication without inference beyond stated facts."
+"Notes","asString","xsd:string"
+"Computation","hasExperiment","Experiment"
+"Computation","hasType","Type"
+"Computation","subClassOf","NodeWithAttributes"
+"Computation","hasInputData, hasOutputData","Data"
+"Computation","hasSoftwareConfiguration","SoftwareConfiguration"
+"Computation","hasCitation","Citation"

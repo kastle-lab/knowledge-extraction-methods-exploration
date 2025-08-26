@@ -1,0 +1,6 @@
+"Data","hasSamplePreparation","ChemicalProcess"
+"Data","hasComputation","Simulation"
+"Data","type","silica/XLPE nanocomposites"
+"Data","citation","J Mater Sci (2007) 42:3789–3799 DOI 10.1007/s10853-006-0413-0"
+"SubClassOf","NODE_WITH_ATTRIBUTES","Rensselaer Polytechnic Institute"
+"Experiment","hasMaterial","silica nanoparticles polyethylene cross-linked low density polymer"

@@ -1,0 +1,11 @@
+subject,predicate,object
+Process,hasIngredient,Ingredient
+Process,hasCondition,Condition
+Process,hasType,Type
+PhysicalProcess,subClassOf,Process
+Type,asString,xsd:string
+ComputationalProcess,subClassOf,Process
+Process,subClassOf,NodeWithAttributes
+Process,hasCitation,Citation
+Process,hasProperty,Property
+Process,hasExperiment,Experiment

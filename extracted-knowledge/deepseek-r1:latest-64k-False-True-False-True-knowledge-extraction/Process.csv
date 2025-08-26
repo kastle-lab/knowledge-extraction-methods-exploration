@@ -1,0 +1,5 @@
+"4. Process hasExperiment Experiment: The paper details experiments on breakdown strength","voltage endurance","etc."
+"PhysicalProcess","subClassOf","Process"
+"Process","hasType","Type"
+"Material","hasProperty","Property"
+"Process","hasExperiment","Experiment"

@@ -1,0 +1,11 @@
+subject,predicate,object
+Data,"hasSamplePreparation, hasPhysicalProcess",PhysicalProcess
+Data,hasComputation,Computation
+Data,hasType,Type
+Data,hasCitation,Citation
+Type,asString,xsd:string
+Data,subClassOf,NodeWithAttributes
+Data,hasComputationalProcess,ComputationalProcess
+Data,hasFile,File
+Data,hasExperiment,Experiment
+Data,hasMaterial,Material

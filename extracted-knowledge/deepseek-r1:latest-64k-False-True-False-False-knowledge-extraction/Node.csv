@@ -1,0 +1,7 @@
+"For other potential triples like CreationTime or UpdateUser","I can't find any date information explicitly mentioned. Similarly","Locked status isn't referenced at all."
+"Rensselaer Polytechnic Institute","Organization","xsd:anyURI"
+"M. Roy","Namespace","NodeWithAttributes"
+"J. K. Nelson","UpdateUser","xsd:string"
+"L. S. Schadler","CreationTime","xsd:dateTime"
+"L. S. Schadler","Locked","true"
+"ResearchGroup","Name","Amine Defects Reduction via Surface Treatment"

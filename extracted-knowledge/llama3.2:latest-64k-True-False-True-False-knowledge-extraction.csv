@@ -1,0 +1,6 @@
+"Experiment,hasData,Data","Data,hasSamplePreparation,PhysicalProcess","PhysicalProcess,subClassOf,NodeWithAttributes"
+"Project,hasCollection,Collection","Collection,subClassOf,NodeWithAttributes","Material,hasIdentifier,Identifier"
+"Funding,asString,xsd:string","Material,hasComponent,Material","Experiment,subClassOf,NodeWithAttributes"
+"ComputationalProcess,hasNotes,Notes","Computation,hasSoftwareConfiguration,SoftwareConfiguration","Experiment,hasData,Data"
+"DifferentialScanningCalorimetry,subClassOf,ThermochemicalMethod","CharacterizationMethod,subClassOf,Process","PhysicalProcess,hasPrerequisiteProcess,PhysicalProcess"
+"Collection,subClassOf,NodeWithAttributes","Data,subClassOf,NodeWithAttributes","Experiment,hasExperiment,Experiment"

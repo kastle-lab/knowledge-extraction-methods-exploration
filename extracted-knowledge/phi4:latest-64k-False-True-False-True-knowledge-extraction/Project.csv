@@ -1,0 +1,6 @@
+"Polyethylene","hasComponent","Silica Nanoparticles"
+"SiO2_Powder_A","hasQuantity","200 m²/g"
+"XLPE + TES treated nanosilica","hasMaterial","TES-treated nanoparticles"
+"XLPE + AEAPS treated nanosilica","hasMaterial","AEAPS-treated nanoparticles"
+"XLPE + HMDS treated nanosilica","hasMaterial","HMDS-treated nanoparticles"
+"XLPE + untreated nanosilica","hasMaterial","Nanoscale silica"

@@ -1,0 +1,7 @@
+"Experiment","hasCollection","silica/XLPE nanocomposites as a collection for experimental results"
+"Experiment","hasProcess","melt mixing process of nanoparticles in the matrix polymer"
+"Experiment","hasLocation","Rensselaer Polytechnic Institute where the experiments were conducted"
+"Environment","characterizedByTemperatureRange","25°C, 60°C, etc."
+"Citation","refersTo","previous works [1], [2] ..."
+"DielectricSpectroscopy","relatedTo","silica/XLPE nanocomposites characterization in the study"
+"AbsorptionCurrentMeasurements","associatedWith","dielectric spectroscopy and absorption current measurements discussion"

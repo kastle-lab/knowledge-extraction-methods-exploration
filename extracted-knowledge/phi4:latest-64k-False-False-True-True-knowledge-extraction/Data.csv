@@ -1,0 +1,7 @@
+"- The publication explicitly mentions certain measurements","methods","and results that align with the schema's predicates. Here are the extracted triples:"
+"- `ElectronParamagneticResonanceSpectra","hasType","EPR`"
+"- `ParticleDefectDensityMeasurement","hasExperiment","BrukerER042EPR`"
+"- `DCBreakdownStrengthMeasurement","hasSamplePreparation","RecessedSpecimensWithGoldElectrodes`"
+"ElectronParamagneticResonanceSpectra","hasType","EPR"
+"ParticleDefectDensityMeasurement","hasExperiment","BrukerER042EPR"
+"DCBreakdownStrengthMeasurement","hasSamplePreparation","RecessedSpecimensWithGoldElectrodes"

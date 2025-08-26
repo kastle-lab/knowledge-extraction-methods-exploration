@@ -1,0 +1,6 @@
+"Data","hasSamplePreparation,PhysicalProcess","melt mixing; hot pressing; post-cure annealing"
+"Data","hasComputation","breakdown strength calculation; Weibull analysis; activation energy calculations; defect size distribution analyses"
+"Data","hasType","electrical properties; structural characterization results; computational analysis data"
+"Data","hasCitation","Citation"
+"Data","hasComputationalProcess","Dielectric spectroscopy; absorption current measurements; thermally stimulated current determinations (TSC)"
+"Data","subClassOf","NodeWithAttributes"

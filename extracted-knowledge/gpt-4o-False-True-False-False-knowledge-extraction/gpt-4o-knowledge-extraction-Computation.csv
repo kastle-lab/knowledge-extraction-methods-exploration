@@ -1,0 +1,7 @@
+"Computation","hasExperiment","dielectric spectroscopy"
+"Computation","hasExperiment","absorption current measurements"
+"Computation","hasExperiment","thermally stimulated current measurements"
+"Computation","hasType","silica/cross-linked low density polyethylene nanocomposites"
+"Computation","hasSoftwareConfiguration","Novocontrol Alpha Analyzer"
+"Computation","hasCondition","room temperature"
+"Computation","hasCondition","high-voltage source with a ramp rate of 500 V s[-1]"

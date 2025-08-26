@@ -1,0 +1,6 @@
+"Compression","subClassOf","MechanicalProperty"
+"CompressionModulus","subClassOf","Compression"
+"CompressionStressAtBreak","subClassOf","Compression"
+"CompressionStressAtBreak","subClassOf","MechanicalProperty"
+"CompressionStressAtYield","subClassOf","Compression"
+"CompressionStressAtYield","subClassOf","MechanicalProperty"

@@ -1,0 +1,5 @@
+"teacher","hasIngredient","InstructionalMaterial"
+"Process","function-generation","HasResult"
+"teacher","isASubClassOf","Process"
+"teacher","isASubClassOf","Process"
+"teacher","isASubClassOf","Process"

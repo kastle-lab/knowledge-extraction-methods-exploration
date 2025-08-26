@@ -1,0 +1,8 @@
+"subject","predicate","object = triple"
+"for original_subject","original_predicate","original_object in schema_triples:"
+"filtered_triples.append((subject","predicate","str(object)))"
+"Data,hasMaterial,{\type\"": \""\""","\""properties\"": \""\""","\""sources\"": \""\""}"""
+"Type","asString","xsd:string"
+"Data","subClassOf","Material"
+"Data,hasComputationalProcess,{\method\"": \""\""","\""algorithm\"": \""\""","\""software_used\"": \""\""}"""
+"Data,hasPhysicalProcess,{\description\"": \""\""","\""steps_involved\"": \""\""","\""materials_used\"": \""\""}"""

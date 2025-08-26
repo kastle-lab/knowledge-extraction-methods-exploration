@@ -1,0 +1,8 @@
+"Material","hasIdentifier","Identifier"
+"Mihir Roy","J. Keith Nelson","R. K. MacCrone"
+"Material","subClassOf","NodeWithAttributes"
+"Material","hasComponent","Material"
+"Material","hasKeyword","Keyword"
+"Keyword","asString","xsd:string"
+"Material","hasPhysicalProcess","PhysicalProcess"
+"Material","hasProject","Project"

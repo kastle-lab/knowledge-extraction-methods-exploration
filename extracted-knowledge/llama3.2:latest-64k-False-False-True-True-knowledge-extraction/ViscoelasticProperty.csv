@@ -1,0 +1,4 @@
+"""PhysicalProperty","subClassOf","Property"""
+"match2 = re.search(pattern","publication_text","re.DOTALL)"
+"triples.append(""{}:{}:{}"".format(subject","predicate","object))"
+"Finally","the code prints out the extracted triples in CSV format","one triple per line."

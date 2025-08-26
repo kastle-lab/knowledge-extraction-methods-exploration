@@ -1,0 +1,6 @@
+"Project","hasMaterial","silica"
+"Project","hasMaterial","XLPE"
+"Project","hasMaterial","nanoscale silica"
+"Project","hasMaterial","micron scale filler"
+"Project","hasCollection","nanocomposites"
+"Project","subClassOf","NodeWithAttributes"

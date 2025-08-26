@@ -1,0 +1,5 @@
+"XLPE","subClassOf","NodeWithAttributes"
+"XLPE","hasMaterial","silica"
+"XLPE","hasMaterial","SiO2"
+"XLPE","hasCollection","nanoscale particulates"
+"XLPE","hasCollection","micron particulates"

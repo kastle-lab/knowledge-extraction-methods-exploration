@@ -1,0 +1,7 @@
+"Project","hasMaterial","Silica/cross-linked polyethylene (XLPE)"
+"Project","subClassOf","NodeWithAttributes"
+"Project","hasCollection","Dielectric spectroscopy"
+"Project","hasCollection","Absorption current measurements"
+"Project","hasCollection","Thermally stimulated depolarization"
+"1. **Project","hasMaterial","Material**: The publication discusses nanocomposites composed of silica and cross-linked polyethylene (XLPE)."
+"2. **Project","subClassOf","NodeWithAttributes**: The publication covers attributes of materials such as interface properties and morphology."

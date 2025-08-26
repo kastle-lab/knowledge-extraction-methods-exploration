@@ -1,0 +1,18 @@
+"1. Identify the subject","predicate","and object for each triple in the schema."
+"1. ""Material","hasProperty","Property"""
+"2. ""Experiment","hasLocation","Location"""
+"3. ""DifferentialScanningCalorimetry","hasCalorimetryCharacteristic","CoolingRate"""
+"4. ""Rheometry","hasRheometryCharacteristic","CapillarySize"""
+"5. ""TransmissionElectronMicroscopy","hasMicrscopyCharacteristic","Magnification"""
+"6. ""Collection","hasDOI","xsd:anyURI"""
+"7. ""Reference","hasAuthor","Author"""
+"8. ""Material","hasComponent","Material"""
+"9. ""Computation","hasSoftwareConfiguration","SoftwareConfiguration"""
+"10. ""Data","hasSamplePreparation","PhysicalProcess"""
+"""
+
+# Extract triples from the publication text
+triple_list = []
+for triple in schema:
+    subject","predicate","object = triple
+    pattern = f({subject})\\s+{predicate}\\s+(.+)"""

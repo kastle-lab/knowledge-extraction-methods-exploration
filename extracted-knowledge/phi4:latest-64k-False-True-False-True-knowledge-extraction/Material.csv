@@ -1,0 +1,7 @@
+"Polyethylene","hasKeyword","nanodielectrics"
+"Polyethylene","hasKeyword","electrical characteristics"
+"Polyethylene","hasKeyword","breakdown strength"
+"Silica nanoparticles/XLPE nanocomposites","subClassOf","NodeWithAttributes"
+"Silica nanoparticles/XLPE nanocomposites","hasPhysicalProcess","dielectric breakdown"
+"Silica nanoparticles/XLPE nanocomposites","hasPhysicalProcess","thermally stimulated current"
+"Rensselaer Polytechnic Institute study","hasProject","nanodielectrics research"

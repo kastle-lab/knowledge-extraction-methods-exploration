@@ -1,0 +1,8 @@
+"Experiment","hasProcess","Process"
+"Experiment","hasData","Data"
+"Experiment","hasCollection","Collection"
+"Experiment","hasFunding","Funding"
+"Experiment","hasLocation","Location"
+"Experiment","hasEnvironment","Environment"
+"Experiment","hasCitation","Citation"
+"Experiment","hasComputation","Computation"

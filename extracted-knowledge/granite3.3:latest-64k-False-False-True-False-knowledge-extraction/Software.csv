@@ -1,0 +1,3 @@
+"Software","hasVersion","xsd:string"
+"Software","hasSource","Source"
+"Software","subClassOf","Node"

@@ -1,0 +1,8 @@
+"PhysicalProcess","subClassOf","Process"
+"PhysicalProcess","hasLocation","Location"
+"PhysicalProcess","hasProduct","Material"
+"PhysicalProcess","hasWaste","Material"
+"PhysicalProcess","hasPrerequisiteProcess","PhysicalProcess"
+"PhysicalProcess","hasDescription","Description"
+"PhysicalProcess","hasKeyword","Keyword"
+"Keyword","asString","xsd:string"

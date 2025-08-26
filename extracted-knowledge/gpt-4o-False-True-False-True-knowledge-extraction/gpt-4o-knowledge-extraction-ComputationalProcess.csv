@@ -1,0 +1,4 @@
+"ComputationalProcess","hasSoftwareConfiguration","SoftwareConfiguration"
+"DC breakdown strength measurement","hasSoftwareConfiguration","Weibull distribution analysis"
+"Voltage endurance test","hasSoftwareConfiguration","CYLINDRICAL BLOCK SETUP"
+"Absorption current measurement","hasSoftwareConfiguration","Keithley 8009 Resistivity Test Fixture"

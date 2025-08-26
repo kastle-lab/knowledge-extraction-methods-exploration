@@ -1,0 +1,5 @@
+"Process","hasIngredient","Ingredient"
+"Process","hasCondition","Condition"
+"Process","hasType","Type"
+"PhysicalProcess","subClassOf","Process"
+"Type","asString","xsd:string"

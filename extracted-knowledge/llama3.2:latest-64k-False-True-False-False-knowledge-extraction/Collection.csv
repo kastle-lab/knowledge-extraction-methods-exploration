@@ -1,0 +1,7 @@
+"cleaned_sentence = re.sub(r'[^\w\s]'","''","sentence).lower()"
+"subject","predicate","object = triple"
+"Silica","nanoparticles","interface"
+"Polyethylene","nanoparticles","interface"
+"Nanoparticles","Silica","XLPE"
+"XLPE","Nanoparticles","Silica"
+"These triples define the relations between silica nanoparticles","polyethylene","and their interfaces. The filtered triples outputted by the code will only include those that match these patterns."

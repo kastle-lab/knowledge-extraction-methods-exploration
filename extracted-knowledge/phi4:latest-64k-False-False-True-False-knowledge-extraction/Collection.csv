@@ -1,0 +1,5 @@
+"- The predicates include `hasDOI`","among others","with objects like `xsd:anyURI`."
+"- This fits the schema pattern `Collection","hasDOI","xsd:anyURI` with the object being the actual DOI string."
+"Collection","hasDOI","xsd:anyURI"
+"Collection","hasDOI","10.1007/s10853-006-0413-0"
+"Collection","hasDOI","10.1007/s10853-006-0413-0"

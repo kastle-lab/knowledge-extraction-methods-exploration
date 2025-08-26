@@ -1,0 +1,10 @@
+subject,predicate,object
+Material,hasIdentifier,Identifier
+Material,"hasComponent, hasParentMaterial",Material
+Material,hasKeyword,Keyword
+Keyword,asString,xsd:string
+Material,hasComputationForcefield,ComputationForcefield
+Material,subClassOf,NodeWithAttributes
+Material,hasProperty,Property
+Material,hasPhysicalProcess,PhysicalProcess
+Material,hasProject,Project

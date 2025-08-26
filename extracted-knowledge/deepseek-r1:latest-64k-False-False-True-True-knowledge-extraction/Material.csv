@@ -1,0 +1,4 @@
+"1. **Schema:** I have specific triple patterns (subject","predicate","object)."
+"Return a CSV-style list of complete data triples (""subject","predicate","object"") where:"
+"1.  **Identify Subject:** The publication mentions specific materials like nanocomposites","XLPE (cross-linked low-density polyethylene)","silica."
+"*   **""Material","\""hasComponent\""","Material"":** Yes. ""XLPE with filler"" is mentioned as having silica nanoparticles treated with chemicals like TES or AEAPS compared to untreated polymer. Also mentions micron and nanoscale particulates vs XLPE matrix itself."

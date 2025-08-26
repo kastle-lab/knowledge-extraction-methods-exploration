@@ -1,0 +1,8 @@
+"Polyethylene–SiO₂ nanocomposite-dielectrics","subclassOf","Composites"
+"Nanocomposite-dielectrics","subclassOf","NodeWithAttributes"
+"XLPE (cross-linked polyethylene)","hasMaterial","Polymer"
+"Nanosilica particles","hasMaterial","Filler"
+"Triethoxyvinylsilane (TES)","usedForModification","Nanosilica"
+"n-(2-aminoethyl)-3-aminopropyltrimethoxysilane (AEAPS)","usedForModification","Nanosilica"
+"Hexamethyldisilazane (HMDS)","usedForModification","Nanosilica"
+"Nanoscale silica particles","hasTypeOfParticle","Particulate"

@@ -1,0 +1,16 @@
+"def extract_data_triples(publication_content: str) -> List[Tuple[str","str","str]]:"
+"# Extract the subject","predicate","and object from the sentence"
+"data_triples.append((subject","predicate","object))"
+"""
+
+# Extract the data triples from the publication
+data_triples = extract_data_triples(publication_content)
+
+# Print the extracted data triples
+for triple in data_triples:
+    print(triple)
+```
+
+This code snippet uses regular expressions to split the publication content into sentences and then tokenizes each sentence into words. It checks if any of the words match a schema triple subject or predicate","extracts the subject","predicate, and object from the sentence, and adds the extracted triple to the list.
+
+Note that this is just an example implementation and may need to be adjusted based on the specific requirements of your use case."

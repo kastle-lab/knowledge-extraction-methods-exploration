@@ -1,0 +1,5 @@
+"Collection","hasCitation","Citation"
+"Collection","hasReference","Reference"
+"The authors cited several publications","including [1] and [2]","which documented improved dielectric properties in nano-TiO 2 filled epoxy resin and titania filled low density polyethylene (LDPE) composites."
+"Citation","subClassOf","Reference"
+"Citation","hasType","CitationTypes"

@@ -1,0 +1,4 @@
+"subject","predicate","object"
+"PhysicalProcess","hasDescription","Description"
+"PhysicalProcess","subClassOf","Process"
+"PhysicalProcess","hasLocation","Location"

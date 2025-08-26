@@ -1,0 +1,4 @@
+"2. ""search function""","hasInputData, hasOutputData","[data]"
+"3. ""notes""","asString","xsd:string"
+"4. ""ComputationalProcess""","subClassOf","Process"
+"5. ""ComputationalProcess""","hasSoftwareConfiguration","SoftwareConfiguration"

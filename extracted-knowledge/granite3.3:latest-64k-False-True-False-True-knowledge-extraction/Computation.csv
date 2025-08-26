@@ -1,0 +1,7 @@
+"Computation","hasType","Nanodielectrics"
+"Computation","hasPrerequisiteComputation","Computation"
+"Computation","hasExperiment","Experiment"
+"Computation","hasNotes","Notes"
+"Computation","subClassOf","NodeWithAttributes"
+"Computation","hasCitation","Citation"
+"Computation","hasCondition","Condition"

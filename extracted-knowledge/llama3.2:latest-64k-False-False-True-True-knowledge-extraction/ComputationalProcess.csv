@@ -1,0 +1,16 @@
+"Polyethylene","hasBreakdownStrength","BreakdownStrength: 1.0 x 10^6 J/m²"
+"Polyethylene","hasVoltageEndurance","VoltageEndurance: 2.0 x 10^3 V/s"
+"SiO2_Powder_A","hasQuantifiedProperty","SpecificSurfaceArea: 200 m²/g"
+"XLPE","hasBaseMaterial","BASE"
+"EpoxyResinBlend","hasComponent","CarbonNanotubes"
+"LAMMPS v3.2","hasSoftwareConfiguration","SoftwareConfiguration"
+"HeatTreatment950C","hasPhysicalProcess","PhysicalProcess"
+"SEM_Results_Char22.csv","hasResultData","ResultData"
+"Polyethylene","predictedBreakdownStrength","BreakdownStrength: 1.0 x 10^6 J/m²
+Polyethylene,predictedVoltageEndurance,VoltageEndurance: 2.0 x 10^3 V/s
+SiO2_Powder_A,specificSurfaceArea,SpecificSurfaceArea: 200 m²/g
+XLPE,baseMaterial,BASE
+EpoxyResinBlend,component,CarbonNanotubes
+LAMMPS v3.2,softwareConfiguration,SoftwareConfiguration
+HeatTreatment950C,physicalProcess,PhysicalProcess
+SEM_Char2022,resultData,ResultData"

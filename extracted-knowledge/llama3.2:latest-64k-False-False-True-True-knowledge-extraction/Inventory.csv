@@ -1,0 +1,4 @@
+"Inventory","subClassOf","NodeWithAttributes"
+"Inventory","hasCollection","Collection"
+"Inventory","hasMaterial","Material"
+"* **Inventory","hasMaterial","Material**: The publication mentions ""the study discusses the electrical characteristics of silica/XLPE nanodielectrics and their improvement in breakdown strength and voltage endurance compared to unfilled XLPE."" This suggests that the subject (Inventory) has a material (XLPE)."

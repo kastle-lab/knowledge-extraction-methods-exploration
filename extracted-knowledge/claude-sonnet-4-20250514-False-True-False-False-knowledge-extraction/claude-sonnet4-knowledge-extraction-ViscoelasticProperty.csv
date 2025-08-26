@@ -1,0 +1,8 @@
+"Looking at the publication and the provided schema","I notice that the schema section is empty (just shows ```csv``` with no content). Without specific schema patterns to match against","I cannot extract any triples."
+"- subject","predicate","object"
+"- material","has_breakdown_strength","value"
+"- composite","contains_filler","particle_type"
+"- measurement","performed_at_temperature","temperature_value"
+"- XLPE","has_breakdown_strength","270 kV/mm"
+"- nanocomposite","contains_filler","silica nanoparticles"
+"- breakdown_test","performed_at_temperature","25°C"

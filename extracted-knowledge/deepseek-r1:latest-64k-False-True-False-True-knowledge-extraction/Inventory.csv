@@ -1,0 +1,7 @@
+"(Inventory","subClassOf","NodeWithAttributes)"
+"3. The examples provided in the publication show various formulations like XLPE + untreated nanosilica","etc.","which fit the Inventory pattern perfectly."
+"- The triple (Inventory","subClassOf","NodeWithAttributes) is satisfied by these composites being a specific type of node with attributes"
+"XLPE + untreated nanosilica","hasCollection","XLPE base polymer"
+"XLPE + AEAPS treated silica","hasCollection","XLPE base polymer"
+"XLPE + HMDS treated silica","hasCollection","XL3"
+"XLPE + TES treated silica","hasCollection","XLPE base polymer"

@@ -1,0 +1,4 @@
+"Data","hasSamplePreparation","PhysicalProcess"
+"Type","xsd:string","string"
+"Material","your material here",""
+"Experiment","based on input x context provided by P (May 1)",""

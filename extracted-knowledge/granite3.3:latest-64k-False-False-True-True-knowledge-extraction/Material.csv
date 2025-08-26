@@ -1,0 +1,7 @@
+"Material","hasIdentifier","DOI 10.1007/s10853-006-0413-0"
+"Polyethylene","hasComponent","SiO2 composites"
+"Polyethylene","hasParentMaterial","Commercially available polyethylene for HV cables"
+"Polyethylene","hasKeyword","nanofilled polymers"
+"SiO2","asString","silica, nanofillers, XLPE, dielectric properties, breakdown strength, voltage endurance, interfacial region, particle–polymer interface, surface treatment, oxygen radicals"
+"Polyethylene","subClassOf","NodeWithAttributes"
+"Polyethylene","hasPhysicalProcess","Melt mixed until aggregate size < 100 nm; post-cured under vacuum; metallized with ~150 Å of sputtered gold"

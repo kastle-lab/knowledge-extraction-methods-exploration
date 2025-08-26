@@ -1,0 +1,5 @@
+"Process: Nanofilled XLPE composites","hasIngredient","Silica nanoparticles"
+"PhysicalProcess: Nanofilled XLPE composites","subClassOf","Process"
+"Type: Nanocomposites","asString","xsd:string"
+"Research on nanofilled XLPE composites","hasCitation","J Mater Sci (2007) 42:3789–3799"
+"Process: Nanofilled XLPE composites","hasProperty","Higher breakdown strength and voltage endurance"

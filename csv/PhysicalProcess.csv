@@ -1,0 +1,10 @@
+subject,predicate,object
+PhysicalProcess,subClassOf,Process
+PhysicalProcess,hasLocation,Location
+PhysicalProcess,"hasProduct, hasWaste",Material
+Description,asString,xsd:string
+PhysicalProcess,hasPrerequisiteProcess,PhysicalProcess
+PhysicalProcess,hasDescription,Description
+PhysicalProcess,hasKeyword,Keyword
+PhysicalProcess,hasEquipment,Equipment
+Keyword,asString,xsd:string

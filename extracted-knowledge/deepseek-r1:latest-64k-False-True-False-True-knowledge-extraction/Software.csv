@@ -1,0 +1,7 @@
+"- ""Material","hasComponent","Material"" becomes specific material pairs"
+"- ""Software","hasVersion","xsd:string"" gets a particular software name and version"
+"1. Material component relationships like (EpoxyResinBlend","hasComponent","CarbonNanotubes)"
+"Hmm","scanning through this technical paper on silica/XLPE nanodielectrics","several data points immediately stand out as concrete relationships:"
+"But I must be careful - the paper references surface treatments (""untreated""","""AEAPS treated"") as conditions rather than specific component materials. This distinction is crucial because only direct material/material or filler/polymer pairs should be included","not condition-specific ones like TES-modified silica nanoparticles even if implied to exist in other studies."
+"Also noticing that while the paper discusses various measurement techniques (EPR","XPS)","it doesn't list specific software configurations - so no ""Software"" triples apply here. The same goes for data acquisition methods mentioned generally (""data was gathered"") but without specific identifiers or sample preparation processes beyond general descriptions."
+"Finally","the threshold field measurements give concrete values that can form direct ""Has"" relationships between material properties and their thresholds. These are explicitly stated with units in multiple places","making them clear derivations from the data presented."

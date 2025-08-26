@@ -1,0 +1,7 @@
+"subject","predicate","object"
+"ACDielectricDispersion","subClassOf","ElectricalProperty"
+"Description","subClassOf","ElectricalProperty"
+"ELECTRICALPROPERTY","subClassOf","PhysicalProperty"
+"EnergyDensity","subClassOf","ElectricalProperty"
+"LossTangent","subClassOf","ACDielectricDispersion"
+"DCDielectricConstant","subClassOf","ElectricalProperty"

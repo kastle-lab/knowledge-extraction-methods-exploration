@@ -1,0 +1,6 @@
+"- Match the entities and concepts from the knowledge graph with the subjects","predicates","and objects in the schema triples."
+"subject","predicate","object = triple"
+"G.add_edge(subject","predicate","target=object)"
+"valid_triples.append((subject","predicate","object))"
+"`""ComputationalProcess""","""hasNotes""","""Notes""`"
+"`""ComputationalProcess""","""hasInputData""","""Data""`"

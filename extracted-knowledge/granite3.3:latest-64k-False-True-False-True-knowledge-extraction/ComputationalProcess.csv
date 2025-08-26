@@ -1,0 +1,4 @@
+"ComputationalProcess","hasNotes","Abstract discussing increased breakdown strength and voltage endurance of nanocomposites"
+"Computation","hasSoftwareConfiguration","LAMMPS v3.2"
+"Data","hasSamplePreparation","HeatTreatment950C"
+"Nanocomposite-dielectric","hasResultData","SEM_Results_Char22.csv"

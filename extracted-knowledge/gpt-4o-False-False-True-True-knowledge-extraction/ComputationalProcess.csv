@@ -1,0 +1,3 @@
+"ComputationalProcess","hasInputData, hasOutputData","investment data of untreated nanosilica and AEAPS treated nanosilica with outputs like dielectric strength and absorption current."
+"ComputationalProcess","subClassOf","Process"
+"ComputationalProcess","hasSoftwareConfiguration","X-ray Photoelectron Spectroscopy (XPS) was utilized on a Perkin Elmer (Model # 5500) using MgK a monochromatic radiation."

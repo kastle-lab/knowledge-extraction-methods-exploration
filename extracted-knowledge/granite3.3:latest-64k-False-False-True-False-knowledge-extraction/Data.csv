@@ -1,0 +1,8 @@
+"Data","hasSamplePreparation","PhysicalProcess: ""Melt mixing until aggregate size is less than 100 nm as measured using scanning electron microscopy."""
+"Data","hasType","NodeWithAttributes"
+"Data","hasCitation","Citation"
+"Data","asString","xsd:string: ""Nanoscale silica/cross-linked low density polyethylene nanocomposites with several silica surface treatments"""
+"Data","subClassOf","NodeWithAttributes"
+"Data","hasMaterial","Material"
+"Data","hasComputation",": ""Analysis of breakdown data using Weibull distribution; calculation of activation energies from TSC spectra"""
+"Data","hasExperiment","Experiment: ""Breakdown strength tests at various temperatures; voltage endurance tests with alternating voltage; dielectric spectroscopic measurements; TSC measurements; absorption current measurements"""

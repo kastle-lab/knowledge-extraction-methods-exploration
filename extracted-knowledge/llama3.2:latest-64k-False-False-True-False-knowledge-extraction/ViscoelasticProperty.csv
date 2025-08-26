@@ -1,0 +1,7 @@
+"CompressiveCreep","subClassOf","ViscoelasticProperty"
+"TensileCreep","subClassOf","ViscoelasticProperty"
+"FlexuralCreep","subClassOf","FlexuralCreep"
+"ViscoelasticProperty","subClassOf","PhysicalProperty"
+"CompressiveCreep","subClassOf","CompressiveCreep"
+"FlexuralCreep","subClassOf","CompressiveCreep"
+"TensileCreep","subClassOf","TensileCreep"

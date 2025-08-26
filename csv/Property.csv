@@ -1,0 +1,148 @@
+subject,predicate,object
+CrystalPhase,subClassOf,Filler Properties
+Shared Physical Properties,subClassOf,PhysicalProperty
+Tacticity,subClassOf,Matrix and Filler Properties
+Hardener,subClassOf,Matrix Properties
+Polydispersity,subClassOf,PhysicalProperty
+Hardener,subClassOf,Matrix and PST Properties
+AspectRatio,subClassOf,PhysicalProperty
+Density,hasQuantity,Unit
+PolymerClass,subClassOf,Matrix and Filler Properties
+MolecularWeight,subClassOf,Matrix and PST Properties
+PhysicalProperty,subClassOf,Property
+TotalSurfaceArea,subClassOf,PhysicalProperty
+PSTPopulationDensity,subClassOf,Particle Surface Treatment (PST) Properties
+Matrix and Filler Properties,subClassOf,MetadataProperty
+ComponentCompositionWeightFraction,subClassOf,Shared Physical Properties
+Matrix and Filler Properties,subClassOf,Shared Metadata Properties
+SpecificSurfaceArea,hasQuantity,Unit
+Hardener,subClassOf,PhysicalProperty
+PolymerPlasticType,subClassOf,Matrix and Filler Properties
+ConstitutionalUnit,subClassOf,Matrix and PST Properties
+Additive,hasQuantity,Value
+MolecularWeight,subClassOf,PhysicalProperty
+Polydispersity,subClassOf,Matrix and Filler Properties
+Abbreviation,subClassOf,MetadataProperty
+Abbreviation,subClassOf,Shared Metadata Properties
+PSTPopulationDensity,hasQuantity,Quantity
+NonSphericalShapeDepth,hasQuantity,Unit
+TotalSurfaceArea,subClassOf,Matrix and Filler Properties
+CrystalPhase,subClassOf,PhysicalProperty
+ConstitutionalUnit,subClassOf,PhysicalProperty
+Matrix and PST Properties,subClassOf,PhysicalProperty
+AspectRatio,subClassOf,Filler Properties
+Filler Properties,subClassOf,PhysicalProperty
+Matrix Properties,subClassOf,PubChemReference
+PubChemReference,subClassOf,Matrix and Filler Properties
+ChemicalName,subClassOf,Shared Metadata Properties
+Viscosity,subClassOf,Matrix and Filler Properties
+NonSphericalShapeWidth,subClassOf,Matrix and Filler Properties
+MolecularWeight,hasQuantity,Value
+CrystalPhase,subClassOf,Matrix and Filler Properties
+Manufacturer,subClassOf,MetadataProperty
+Density,subClassOf,PhysicalProperty
+Density,hasQuantity,Quantity
+NonSphericalShapeLength,hasQuantity,Unit
+Filler Properties,subClassOf,Matrix and Filler Properties
+Additive,hasQuantity,Quantity
+Shared Physical Properties,subClassOf,Shared Properties
+Shared Metadata Properties,subClassOf,Shared Properties
+Additive,subClassOf,Matrix and Filler Properties
+Matrix Properties,subClassOf,Matrix and PST Properties
+TotalSurfaceArea,hasQuantity,Unit
+Density,hasQuantity,Value
+MolecularWeight,subClassOf,Shared Properties
+Matrix Properties,subClassOf,MolecularWeight
+ParticleDiameter,hasQuantity,Unit
+Tacticity,subClassOf,Matrix and PST Properties
+PubChemReference,subClassOf,Shared Properties
+AspectRatio,subClassOf,Matrix and Filler Properties
+SpecificSurfaceArea,hasQuantity,Value
+MolecularWeight,hasQuantity,Quantity
+Viscosity,hasQuantity,Unit
+NonSphericalShapeWidth,hasQuantity,Unit
+AspectRatio,hasValue,Value
+Matrix and PST Properties,subClassOf,Shared Properties
+ParticleDiameter,subClassOf,Filler Properties
+Hardener,subClassOf,Matrix and Filler Properties
+PolymerPlasticType,subClassOf,Matrix and PST Properties
+NonSphericalShapeDepth,hasQuantity,Value
+NonSphericalShapeLength,subClassOf,PhysicalProperty
+Particle Surface Treatment (PST) Properties,subClassOf,ConstitutionalUnit
+MetadataProperty,subClassOf,Property
+Filler Properties,subClassOf,PubChemReference
+Shared Metadata Properties,subClassOf,MetadataProperty
+Matrix Properties,subClassOf,ConstitutionalUnit
+Manufacturer,subClassOf,Shared Metadata Properties
+ComponentCompositionVolumeFraction,hasValue,Value
+SpecificSurfaceArea,subClassOf,PhysicalProperty
+Viscosity,subClassOf,Matrix and PST Properties
+SpecificSurfaceArea,hasQuantity,Quantity
+ParticleDiameter,subClassOf,PhysicalProperty
+PubChemReference,subClassOf,MetadataProperty
+Particle Surface Treatment (PST) Properties,subClassOf,Matrix and PST Properties
+PolymerType,subClassOf,Matrix and PST Properties
+NonSphericalShapeLength,subClassOf,Filler Properties
+ParticleDiameter,hasQuantity,Quantity
+Matrix and PST Properties,subClassOf,Shared Metadata Properties
+Particle Surface Treatment (PST) Properties,subClassOf,MolecularWeight
+Matrix and PST Properties,subClassOf,Shared Physical Properties
+Unit,subClassOf,Quantity
+NonSphericalShapeDepth,subClassOf,PhysicalProperty
+NonSphericalShapeDepth,hasQuantity,Quantity
+ComponentCompositionWeightFraction,subClassOf,PhysicalProperty
+Tacticity,subClassOf,Matrix Properties
+TotalSurfaceArea,hasQuantity,Value
+Matrix Properties,subClassOf,PhysicalProperty
+ParticleDiameter,subClassOf,Matrix and Filler Properties
+PolymerClass,subClassOf,Matrix and PST Properties
+PSTPopulationDensity,hasQuantity,Unit
+ConstitutionalUnit,subClassOf,Shared Properties
+SpecificSurfaceArea,subClassOf,Filler Properties
+ParticleDiameter,hasQuantity,Value
+Density,subClassOf,Shared Physical Properties
+Tacticity,subClassOf,PhysicalProperty
+PolymerPlasticType,subClassOf,Matrix Properties
+Viscosity,hasQuantity,Value
+NonSphericalShapeWidth,hasQuantity,Value
+Polydispersity,subClassOf,Matrix and PST Properties
+ComponentCompositionVolumeFraction,subClassOf,PhysicalProperty
+NonSphericalShapeDepth,subClassOf,Filler Properties
+NonSphericalShapeLength,hasQuantity,Quantity
+PolymerPlasticType,subClassOf,PhysicalProperty
+Value,subClassOf,Quantity
+Additive,hasQuantity,Unit
+NonSphericalShapeLength,subClassOf,Matrix and Filler Properties
+PSTPopulationDensity,subClassOf,Matrix and PST Properties
+TotalSurfaceArea,hasQuantity,Quantity
+Viscosity,subClassOf,Matrix Properties
+PolymerType,subClassOf,Matrix Properties
+Matrix and Filler Properties,subClassOf,Shared Physical Properties
+NonSphericalShapeLength,hasQuantity,Value
+TradeName,subClassOf,MetadataProperty
+PSTPopulationDensity,subClassOf,PhysicalProperty
+TradeName,subClassOf,Shared Metadata Properties
+Viscosity,subClassOf,PhysicalProperty
+NonSphericalShapeWidth,subClassOf,PhysicalProperty
+Viscosity,hasQuantity,Quantity
+NonSphericalShapeWidth,hasQuantity,Quantity
+Particle Surface Treatment (PST) Properties,subClassOf,PhysicalProperty
+PolymerType,subClassOf,PhysicalProperty
+Matrix and Filler Properties,subClassOf,Shared Properties
+SpecificSurfaceArea,subClassOf,Matrix and Filler Properties
+PolymerClass,subClassOf,Matrix Properties
+MolecularWeight,hasQuantity,Unit
+ComponentCompositionVolumeFraction,subClassOf,Shared Physical Properties
+Additive,subClassOf,Matrix Properties
+TotalSurfaceArea,subClassOf,Filler Properties
+Additive,subClassOf,Matrix and PST Properties
+ChemicalName,subClassOf,MetadataProperty
+NonSphericalShapeDepth,subClassOf,Matrix and Filler Properties
+PolymerType,subClassOf,Matrix and Filler Properties
+PSTPopulationDensity,hasQuantity,Value
+PolymerClass,subClassOf,PhysicalProperty
+Polydispersity,subClassOf,Matrix Properties
+Additive,subClassOf,PhysicalProperty
+Matrix Properties,subClassOf,Matrix and Filler Properties
+ComponentCompositionWeightFraction,hasValue,Value
+NonSphericalShapeWidth,subClassOf,Filler Properties

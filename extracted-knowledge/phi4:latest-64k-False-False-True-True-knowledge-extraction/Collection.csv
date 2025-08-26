@@ -1,0 +1,4 @@
+"- `Collection","hasDOI","xsd:anyURI`"
+"- `Collection","hasCitation","Citation`"
+"- `Collection","hasExperiment","Experiment`"
+"- `Collection","hasProject","Project`"

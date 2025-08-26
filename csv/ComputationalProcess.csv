@@ -1,0 +1,6 @@
+subject,predicate,object
+ComputationalProcess,hasNotes,Notes
+ComputationalProcess,"hasInputData, hasOutputData",Data
+Notes,asString,xsd:string
+ComputationalProcess,subClassOf,Process
+ComputationalProcess,hasSoftwareConfiguration,SoftwareConfiguration

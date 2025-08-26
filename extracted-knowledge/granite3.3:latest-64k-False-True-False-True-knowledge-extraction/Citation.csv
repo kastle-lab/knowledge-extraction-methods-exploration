@@ -1,0 +1,5 @@
+"Material","hasProperty","Density"
+"Polyethylene","hasProperty","Density: Low"
+"Nanosilica","hasComponent","Material: Polyethylene"
+"Nanosilica","breakdownStrength: Increased","SignificantlyIncreased"
+"Nanosilica","voltageEndurance: Improved","TwoOrdersOfMagnitudeImproved"

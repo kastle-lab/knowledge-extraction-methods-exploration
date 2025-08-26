@@ -1,0 +1,6 @@
+"ComputationalProcess","hasNotes","Notes"
+"ComputationalProcess","hasInputData, hasOutputData","Data"
+"ComputationalProcess","subClassOf","Process"
+"ComputationalProcess","hasSoftwareConfiguration","SoftwareConfiguration"
+"Notes","asString","xsd:string"
+"hasInputData, hasOutputData","xsd:string","str (string data)"

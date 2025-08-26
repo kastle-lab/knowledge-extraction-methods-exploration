@@ -1,0 +1,7 @@
+subject,predicate,object
+Collection,subClassOf,NodeWithAttributes
+Collection,hasExperiment,Experiment
+Collection,hasProject,Project
+Collection,hasDOI,xsd:anyURI
+Collection,hasCitation,Citation
+Collection,hasInventory,Inventory

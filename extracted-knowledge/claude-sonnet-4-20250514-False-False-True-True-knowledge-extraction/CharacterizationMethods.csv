@@ -1,0 +1,3 @@
+"ScanningElectronMicroscopy","subClassOf","CharacterizationMethod"
+"XrayPhotonelectronSpectroscopy","subClassOf","CharacterizationMethod"
+"DifferentialScanningCalorimetry","subClassOf","CharacterizationMethod"

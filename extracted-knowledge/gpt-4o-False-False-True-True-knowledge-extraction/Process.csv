@@ -1,0 +1,6 @@
+"LongTermVoltageEnduranceTest","hasCondition","CylindricalBlocksEmbeddedWithTungstenElectrode"
+"LongTermVoltageEnduranceTest","hasCondition","InterElectrodeDistance: ~2 mm"
+"LongTermVoltageEnduranceTest","hasCondition","TipRadius: 4 lm"
+"LongTermVoltageEnduranceTest","hasCondition","TipRadius: 12 lm"
+"LongTermVoltageEnduranceTest","hasType","Long-Term Voltage Endurance Test"
+"LongTermVoltageEnduranceTest","hasCondition","AlternatingVoltage: 60 Hz"

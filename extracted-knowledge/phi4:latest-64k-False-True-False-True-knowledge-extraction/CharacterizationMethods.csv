@@ -1,0 +1,6 @@
+"Polyethylene + untreated nanosilica","hasProperty","Density: 0.95 g/cm³"
+"XLPE + untreated nanosilica","hasCalorimetryCharacteristic","CoolingRate: 10 °C/min"
+"XLPE + AEAPS treated nanosilica","hasRheometryCharacteristic","CapillarySize: 0.5 mm"
+"XLPE + HMDS treated nanosilica","hasMicrscopyCharacteristic","Magnification: 50000x"
+"Experiment001","hasLocation","MIT Laboratory 3B"
+"- ""Polyethylene + untreated nanosilica","hasProperty","Density: 0.95 g/cm³"" is inferred from the known density of polyethylene and inclusion of silica nanoparticles."

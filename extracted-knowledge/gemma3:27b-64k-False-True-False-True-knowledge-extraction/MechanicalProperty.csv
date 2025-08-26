@@ -1,0 +1,8 @@
+"XLPE","hasProperty","DielectricStrength"
+"XLPE","hasProperty","VoltageEndurance"
+"Nanocomposite","hasProperty","DielectricStrength"
+"Nanocomposite","hasProperty","VoltageEndurance"
+"Nanocomposite","hasProperty","Mobility"
+"MicronScaleFiller","hasProperty","Mobility"
+"Nanocomposite","hasProperty","DefectSize"
+"MicronScaleFiller","hasProperty","DefectSize"

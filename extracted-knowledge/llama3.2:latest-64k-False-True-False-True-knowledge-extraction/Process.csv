@@ -1,0 +1,6 @@
+"1. Process","hasCitation","Citation"
+"2. PhysicalProcess","subClassOf","Process"
+"3. ComputationalProcess","subClassOf","Process"
+"Electrical characterization","hasCitation","Citation"
+"Introduction","subClassOf","Process"
+"Materials Science and Engineering Department, Rensselaer Polytechnic Institute","subClassOf","Process"""

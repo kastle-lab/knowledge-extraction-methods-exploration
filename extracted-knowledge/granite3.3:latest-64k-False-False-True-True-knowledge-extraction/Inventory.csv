@@ -1,0 +1,7 @@
+"Inventory","subClassOf","NodeWithAttributes"
+"Inventory","hasCollection","Polyethylene--SiO2 composites"
+"Inventory","hasMaterial","Nanoscale particulates"
+"Inventory","hasMaterial","Untreated Nanosilica"
+"Inventory","hasMaterial","TES-treated Nanosilica"
+"Inventory","hasMaterial","AEAPS-treated Nanosilica"
+"Inventory","hasMaterial","HMDS-treated Nanosilica"

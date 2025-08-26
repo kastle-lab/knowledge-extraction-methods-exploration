@@ -1,0 +1,5 @@
+"- Systems investigation lists materials: untreated silica","treated (AEAPS/HMDS/TESSAP)","XLPE matrix details including cross-linking agent (DCP)."
+"1. **Project","hasMaterial","Material**: Abstract mentions ""nanosilica/XLPE nanocomposites"" vs base polymer; Systems investigation specifies ""XLPE matrix""."
+"2. **Project","subClassOf","NodeWithAttributes**: Introduction states that nanocomposites are studied as systems with nano-fillers."
+"Project","subClassOf","NodeWithAttributes; nanosilica/XLPE composites"
+"Project","hasCollection","Collection; base polymer (untreated)"

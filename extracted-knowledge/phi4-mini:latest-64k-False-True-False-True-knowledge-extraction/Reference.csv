@@ -1,0 +1,4 @@
+"5. ThermallyStimulatedCurrent","isCharacterizedByFeature","C4 Peak -> TSC_C4Peak_Temperatures"
+"7. SpaceChargeMeasurement","isCharacterizedByFeature","OnsetField Positive -> SpaceChargeMeasurement_ThresholdField_Positive"
+"8. SpaceChargeMeasurement","isCharacterizedByFeature","OnsetField Negative -> SpaceChargeMeasurement_ThresholdField_Negative"
+"13. DielectricPermittivity","isMeasuredUnderCondition","FrequencyRange -> DielectricPermittivity_FrequencyRange_0.1Hz_to_1MHz"

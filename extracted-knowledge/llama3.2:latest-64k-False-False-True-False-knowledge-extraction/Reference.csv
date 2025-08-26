@@ -1,0 +1,42 @@
+"triple = f'{subject}","{predicate}","{object}'"
+"triple = f'{subject}","{predicate}","{object}'"
+"matches = find_matches(generate_pattern(journal_matches[0]","subject)","'hasTitle')"
+"triple = f'{subject}","{predicate}","{object}'"
+"['hasTitle'","'xsd:string']",""
+"':pmid'","'rdfs:Literal'",""
+"['asString'","'xsd:string']",""
+"1. Reference","hasTitle","xsd:string"
+"2. Journal","asString","xsd:string"
+"3. Reference",":pmid","rdfs:Literal"
+"4. Reference",":pageEnd","rdfs:Literal"
+"5. Publisher","asString","xsd:string"
+"6. Reference","hasPublicationYear","xsd:gYear"
+"7. Reference","dcterms:publisher","Publisher"
+"8. Reference","hasArXivID","ArXivID"
+"9. Reference","subClassOf","Node"
+"10. Reference",":issn","rdfs:Literal"
+"11. Reference",":volume","rdfs:Literal"
+"12. Reference",":doi","rdfs:Literal"
+"13. Reference","hasLiteratureType","LiteratureTypes"
+"14. Reference","hasWebsite","xsd:anyURI"
+"15. Reference",":issue","rdfs:Literal"
+"16. Author","asString","xsd:string"
+"17. Reference","hasAuthor","Author"
+"18. Reference",":pageStart","rdfs:Literal"
+"19. ArXivID","asString","xsd:string"
+"20. Reference","hasJournal","Journal"
+"""
+
+extracted_triples = extract_triples(schema","publication)
+
+for triple in extracted_triples:
+    print(triple)
+```
+
+This Python code defines a function `extract_triples` that takes the schema and publication as input","extracts the triples from the publication, and returns them as a list of CSV-formatted strings. It uses regular expressions to find matches between the publication text and the patterns defined in the schema.
+
+The output will be:
+
+```
+Journal = J Mater Sci
+Journal : hasTitle = Candidate mechanisms controlling the electrical characteristics of silica/XLPE nanodielectrics"""

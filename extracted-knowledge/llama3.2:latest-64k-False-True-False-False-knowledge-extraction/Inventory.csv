@@ -1,0 +1,7 @@
+"[""Inventory""","""hasMaterial""","""Material""]"
+"with open(""filtered_triples.csv""","""w""","newline="""") as csvfile:"
+"Inventory","subClassOf","NodeWithAttributes"
+"Inventory","hasCollection","Collection"
+"Inventory","hasMaterial","Material"
+"Mihir Roy","isResearcher","NodeWithAttributes"
+"L. S. Schadler","coAuthor","NodeWithAttributes"

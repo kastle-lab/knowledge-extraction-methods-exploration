@@ -1,0 +1,5 @@
+"Description","subClassOf","ElectricalProperty"
+"Conductivity","subClassOf","ElectricalProperty"
+"SurfaceResistivity","subClassOf","ElectricalProperty"
+"DCDielectricConstant","subClassOf","ElectricalProperty"
+"LossPermitivity","subClassOf","ElectricalProperty"

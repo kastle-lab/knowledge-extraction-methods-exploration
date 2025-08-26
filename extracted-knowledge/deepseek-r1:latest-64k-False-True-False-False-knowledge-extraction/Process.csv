@@ -1,0 +1,4 @@
+"2. Regarding ""Type","asString","xsd:string"": The abstract mentions types like dielectric strength and voltage endurance as properties of nanofilled materials. These would have string representations per schema requirements."
+"5. For all other triples (with Property","Experiment etc.)","there's strong evidence as they directly reference properties being measured or experiments conducted in each section."
+"PhysicalProcess","subClassOf","Process"
+"Type","asString","xsd:string"

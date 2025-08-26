@@ -1,0 +1,7 @@
+"subject","predicate","object"
+"Experiment","subClassOf","NodeWithAttributes"
+"Collection","hasExperiment","Experiment"
+"Process","hasExperiment","Experiment"
+"Funding","asString","xsd:string"
+"Location","subClassOf","Environment"
+"Citation","subClassOf","Reference"

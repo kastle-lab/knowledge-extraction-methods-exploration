@@ -1,0 +1,5 @@
+"Computation","hasType","Type"
+"Computation","hasNotes","Notes"
+"Computation","hasExperiment","Experiment"
+"Type","asString","xsd:string"
+"Notes","asString","xsd:string"

@@ -1,0 +1,8 @@
+"DielectricBreakdownStrength","subClassOf","ElectricalProperty"
+"CurrentDensity","subClassOf","ElectricalProperty"
+"VolumeResistivity","subClassOf","ElectricalProperty"
+"LossTangent","subClassOf","ElectricalProperty"
+"LossTangent","subClassOf","ACDielectricDispersion"
+"Impedance","subClassOf","ElectricalProperty"
+"LossPermitivity","subClassOf","ACDielectricDispersion"
+"LossPermitivity","subClassOf","ElectricalProperty"

@@ -1,0 +1,5 @@
+subject,predicate,object
+Collection,hasCitation,Citation
+Collection,hasReference,Reference
+Citation,subClassOf,Reference
+Citation,hasType,CitationTypes

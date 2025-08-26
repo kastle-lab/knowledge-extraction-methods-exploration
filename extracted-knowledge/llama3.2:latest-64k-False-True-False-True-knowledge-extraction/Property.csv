@@ -1,0 +1,4 @@
+"subject","predicate","object = triple"
+"data_triples.append((subject","predicate","object))"
+"This code first preprocesses the text by tokenizing it","removing stopwords","and lemmatizing the tokens. It then creates a dictionary of named entities."
+"Next","it defines the schema triples and iterates over each triple to extract relevant data from the publication. If the subject or object is found in the entities dictionary","it extracts the corresponding data and adds it to the `material_data` dictionary."

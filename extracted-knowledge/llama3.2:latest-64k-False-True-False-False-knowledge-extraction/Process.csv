@@ -1,0 +1,3 @@
+"if any(word in filtered_tokens for word in [subject","predicate","object]):"
+"# Create a data triple by combining the subject","predicate","and extracted info"
+"data_triple = f""{subject}","{predicate}","{relevant_info}"""

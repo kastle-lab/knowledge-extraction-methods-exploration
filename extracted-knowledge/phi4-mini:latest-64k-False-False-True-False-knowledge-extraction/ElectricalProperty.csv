@@ -1,0 +1,5 @@
+"TimeFrameNumber","SubClassOf","ElectricalProperty"
+"BlockI","SubClassOf","ACDielectricDispersion"
+"PercolationThreshold","SubClassOf","ElectricalProperty"
+"VolumeResistivity","SubClassOf","ElectricalProperty"
+"LossTangent","SubClassOf","ACDielectricDispersion"

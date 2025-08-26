@@ -1,0 +1,7 @@
+"Okay","let's tackle this step by step. The user wants me to extract all factual data triples from the provided scientific publication that match the schema patterns. But first","I need to really understand both the query and the content."
+"In the Systems investigated section","they talk about different types of composites and surface treatments. This could relate to Process subclasses under ThermochemicalMethod or CharacterizationMethod depending on what techniques were used (like EPR","XPS)."
+"Alternatively","perhaps look at any mention of specific subjects like Experiment","Collection etc. with their defined predicates even if the object isn't a number but rather another entity in the publication context."
+"Experiment","hasType","Type"
+"Collection","subClassOf","NodeWithAttributes"
+"Data","subClassOf","NodeWithAttributes"
+"Process","subClassOf","ThermochemicalMethod"

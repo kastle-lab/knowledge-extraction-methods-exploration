@@ -1,0 +1,5 @@
+"Data","hasSamplePreparation","PhysicalProcess"
+"Data","hasComputation","Computation"
+"Data","hasType","xsd:string"
+"Data","hasCitation","DOI 10.1007/s10853-006-0413-0"
+"Data","subClassOf","NodeWithAttributes"

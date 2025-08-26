@@ -1,0 +1,8 @@
+"Next","PhysicalProcess hasLocation which refers to Location. The text mentions several locations like 'XLPE' (cross-linked polyethylene)","which might be considered as the location here since the process is happening within these materials. So that's probably relevant."
+"PhysicalProcess","subClassOf","Process;XLPE_formulation_process"
+"PhysicalProcess","hasLocation","XLPE;base polymer"
+"PhysicalProcess","hasDescription","xsd:string;""Incorporation of silica nanoparticles into polyethylene"""
+"PhysicalProcess","hasPrerequisiteProcess","xsd:anyURI;conventional composites with micron scale filler"
+"PhysicalProcess","hasLocation","XLPE;base polymer"
+"PhysicalProcess","hasDescription","xsd:string;""The most significant difference between micron-scale and nano-scale fillers is the large interfacial area in nanocomposites..."""
+"PhysicalProcess","hasPrerequisiteProcess","xsd:anyURI;conventional composites with micron scale filler"

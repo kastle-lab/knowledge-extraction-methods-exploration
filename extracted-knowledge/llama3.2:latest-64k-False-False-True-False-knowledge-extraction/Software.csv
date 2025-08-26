@@ -1,0 +1,4 @@
+"Software","hasVersion","xsd:string"
+"Source","asString","xsd:string"
+"Software","hasName","xsd:string"
+"Software","hasSource","Source"

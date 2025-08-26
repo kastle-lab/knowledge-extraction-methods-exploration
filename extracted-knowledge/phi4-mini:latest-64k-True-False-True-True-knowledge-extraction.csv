@@ -1,0 +1,3 @@
+"Experiment","subClassOf","NodeWithAttributes"
+"ResearchPaper",":pmid","rdfs:Literal"
+"PMID","","rdfs:NullValue"
